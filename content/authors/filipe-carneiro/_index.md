@@ -1,5 +1,7 @@
 ---
-title: Filipe Carneiro
+title: Garrett Kirsch
 ---
 
-Filipe Carneiro.
+Computer engineering student at the University of Pennsylvania
+
+Currently pursuing research in chiplets and 3D chip architectures.
