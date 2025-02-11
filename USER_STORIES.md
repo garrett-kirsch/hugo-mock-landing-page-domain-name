@@ -17,13 +17,11 @@ These are some features and use cases that will appear on the website.
 
 ### Illustrated Features
 
-- As a teacher, I leverage Pieces to give my students free experience with using AI tools in programming.
-- As a data scientist, I utilize the Workstream Pattern Engine to recognize common data processing patterns and optimize my workflow.
-- As a security researcher, Pieces allows me to archive useful security testing scripts and exploits.
-- As a project manager, Pieces keeps track of commonly used scripts shared across teams.
-- As a developer working on large projects, Pieces helps me retrieve relevant code snippets using AI-powered search.
-- As a QA engineer, I use the Workstream Pattern Engine to detect and generate test case templates, streamlining my testing process.
-
+- As a teacher, I leverage Pieces to give my students free experience with using AI tools in programming without being beholden to one LLM.
+- As a student, Pieces lets me easily save screenshots of code from lecture slides that I would otherwise have to type out by hand.
+- As a project manager, Pieces keeps track of commonly used scripts shared across teams, allowing us to more effectively share highly used code.
+- As a developer working on large projects, Pieces helps me retrieve relevant code snippets using AI-powered search, saving hours of time.
+- As a professional, I use the Workstream Pattern Engine to track my activity across platforms and make sure that I never forget an important email, Slack message, or task.
 
 
 ### Other features
