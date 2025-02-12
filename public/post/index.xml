@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pieces for Developers</title>
+    <link>https://garrett-kirsch.github.io/hugo-mock-landing-page/post/</link>
+    <description>Recent content in Posts on Pieces for Developers</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Garrett Kirsch</copyright>
+    <atom:link href="https://garrett-kirsch.github.io/hugo-mock-landing-page/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pieces New Workstream Pattern Engine</title>
+      <link>https://garrett-kirsch.github.io/hugo-mock-landing-page/post/pieces-new-wpe/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0100</pubDate>
+      <guid>https://garrett-kirsch.github.io/hugo-mock-landing-page/post/pieces-new-wpe/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Pieces for Developers has just launched its groundbreaking Workstream Pattern Engine, a powerful new feature designed to supercharge developer efficiency. This engine leverages machine learning and contextual indexing to detect, store, and suggest code patterns based on a developer’s workflow.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h2&gt;&#xA;&lt;p&gt;At its core, the Workstream Pattern Engine utilizes natural language processing (NLP) and semantic analysis to recognize recurring coding structures, snippets, and even debugging workflows. Unlike traditional snippet managers, which rely on manual tagging and searching, Pieces dynamically learns from how developers write and refactor code.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
