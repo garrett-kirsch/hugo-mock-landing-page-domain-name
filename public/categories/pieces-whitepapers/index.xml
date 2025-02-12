@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Pieces for Developers</title>
-    <link>https://garrett-kirsch.github.io/hugo-mock-landing-page/post/</link>
-    <description>Recent content in Posts on Pieces for Developers</description>
+    <title>Pieces Whitepapers on Pieces for Developers</title>
+    <link>https://garrett-kirsch.github.io/hugo-mock-landing-page/categories/pieces-whitepapers/</link>
+    <description>Recent content in Pieces Whitepapers on Pieces for Developers</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Garrett Kirsch</copyright>
-    <atom:link href="https://garrett-kirsch.github.io/hugo-mock-landing-page/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 21:32:16 -0500</lastBuildDate>
+    <atom:link href="https://garrett-kirsch.github.io/hugo-mock-landing-page/categories/pieces-whitepapers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pieces New Workstream Pattern Engine</title>
       <link>https://garrett-kirsch.github.io/hugo-mock-landing-page/post/pieces-new-wpe/</link>

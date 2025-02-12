@@ -1,7 +1,8 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://garrett-kirsch.github.io/hugo-mock-landing-page/'
 title = "Pieces for Developers"
 author = "Garrett Kirsch"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "Garrett Kirsch"
+
 
 timeZone = 'Europe/London'
 
