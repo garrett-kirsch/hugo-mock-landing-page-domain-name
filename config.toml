@@ -1,4 +1,4 @@
-baseURL = 'https://garrett-kirsch.github.io/hugo-mock-landing-page/'
+baseURL = 'https://garrett-kirsch.github.io/hugo-mock-landing-page-autodeployed/'
 title = "Pieces for Developers"
 author = "Garrett Kirsch"
 copyright = "Garrett Kirsch"
