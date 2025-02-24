@@ -13,3 +13,9 @@ I chose this product for my little project because I have spent a lot of time wi
 This is NOT a real landing page. The "mock" should be a key give-away. I would not want to embarras my former colleagues by associating them with this.
 
 This is simply a project to get to know hugo a bit better. The product features I talk about are still valid though.
+
+## Autodeploy Feature
+
+This version of my website autodeploys the changes that I make to the main branch when I push them to git. The script that does this is contained in a yaml file provided by my professor, Jérémie Lumbroso: .github/workflows/gh-pages-deployment.yaml.
+
+Another thing of note: peaceiris' open source work is used in this workflow, so credit should go to him for the amazing work he's done.
