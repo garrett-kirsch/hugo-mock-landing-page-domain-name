@@ -19,3 +19,7 @@ This is simply a project to get to know hugo a bit better. The product features 
 This version of my website autodeploys the changes that I make to the main branch when I push them to git. The script that does this is contained in a yaml file provided by my professor, Jérémie Lumbroso: .github/workflows/gh-pages-deployment.yaml.
 
 Another thing of note: peaceiris' open source work is used in this workflow, so credit should go to him for the amazing work he's done.
+
+## Custom Domain Name
+
+This version of the website has a custom domain name: piecesfordevelopers.autos (because Caden needs a new one). The website is still hosted on github pages.
