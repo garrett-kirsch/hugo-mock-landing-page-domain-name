@@ -32,7 +32,7 @@
     --bd-violet-rgb: 112.520718,44.062154,249.437846;
     
     padding: .75rem 0;
-    background-color: transparent;
+    background-color: var(--bd-black-rbg);
     background-image: linear-gradient(to bottom, rgba(var(--bd-black-rgb), .9), rgba(var(--bd-black-rgb), 0.85));
     box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15),inset 0 -1px 0 rgba(0,0,0,0.15);
 }
